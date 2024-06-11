@@ -1,0 +1,11 @@
+Ethan Tarnarider
+tarnarider@chapman.edu
+2365982
+CPSC 350-03
+Assignment 3
+To run:
+g++ -c Speakerview.cpp Main.cpp
+g++ -o *exe name* Speakerview.cpp Main.cpp
+./*exe name* inputfile
+Source used: https://www.geeksforgeeks.org/set-position-with-seekg-in-cpp-language-file-handling/
+Also, my header file "ATStack.h" implements all the necessary monotonic stack capabilities, I just didn't change the name

@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{B15705C5-52D1-632D-8C4B-F98A3FB68BF5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Readouts.cs" Line="39" Column="27" />
+      <File FileName="Assets/Scripts/Brick.cs" Line="11" Column="61" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="50" Column="6" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="10" Column="36" />
+      <File FileName="Assets/Scripts/BallResetter.cs" />
+      <File FileName="Assets/Scripts/Game.cs" Line="34" Column="37" />
+      <File FileName="Assets/Scripts/DelayedSelfDestruct.cs" Line="10" Column="45" />
+      <File FileName="Assets/Scripts/DeathEffectObject.cs" Line="7" Column="36" />
+      <File FileName="Assets/Scripts/FloatingText.cs" Line="11" Column="70" />
+      <File FileName="Assets/Scripts/Levels.cs" Line="17" Column="30" />
+      <File FileName="Assets/Scripts/RToReload.cs" Line="4" Column="35" />
+      <File FileName="Assets/Scripts/CollisionSound.cs" Line="11" Column="9" />
+      <File FileName="Assets/Scripts/Sounds.cs" Line="18" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BrickBuster" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Game.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b7e0850e-9895-42b9-aa73-685a3aff4ca1" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A2DA08F3-65F6-A43C-08A5-E6D3BF321AF2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Cards.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Cards.cs" Line="37" Column="24" />
+      <File FileName="Assets/Scripts/Card.cs" Line="38" Column="138" />
+      <File FileName="Assets/Scripts/Randomizer.cs" Line="16" Column="27" />
+      <File FileName="Assets/Scripts/Game.cs" Line="45" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VP final" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Cards.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5f52e315-3456-4222-b06f-88572647f79b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

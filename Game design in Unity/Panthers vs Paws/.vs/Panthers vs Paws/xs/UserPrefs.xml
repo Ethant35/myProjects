@@ -1,0 +1,45 @@
+﻿<Properties StartupConfiguration="{9FA26CD1-BE55-1A86-FE99-431FCF0ECA61}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TicTacToeGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TicTacToeGame.cs" Line="169" Column="10" />
+      <File FileName="Assets/Scripts/TicTacToeResolver.cs" Line="63" Column="1" />
+      <File FileName="Assets/Scripts/GameMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Slots.cs" Line="16" Column="1" />
+      <File FileName="Assets/Scripts/Slot.cs" Line="17" Column="1" />
+      <File FileName="Assets/Scripts/MarkerType.cs" />
+      <File FileName="Assets/Scripts/TurnDisplay.cs" />
+      <File FileName="Assets/Scripts/WinnerDisplay.cs" />
+      <File FileName="Assets/Scripts/Sounds.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Panthers vs Paws" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="TicTacToeGame.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="41d01a74-6b08-47aa-a739-d70b329b72c2" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ethantarnarider/Panthers vs Paws/Assets/Scripts/TicTacToeResolver.cs" relfile="Assets/Scripts/TicTacToeResolver.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
